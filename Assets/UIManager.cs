@@ -10,7 +10,7 @@ public void StartGame()
 public class UIManager : MonoBehaviour
 {
     // Start is called before the first frame update
-    void StartGame()
+    void
     {
         
     }
